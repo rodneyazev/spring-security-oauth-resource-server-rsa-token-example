@@ -10,7 +10,7 @@ Spring Security Oauth Resource Server RSA Token Example
 
 Swagger: http://localhost:8080/swagger
 
-## RSA Generation
+## RSA Key Generation
 
 ```bash
 openssl.exe genrsa -out keypair.pem 2048
